@@ -1,0 +1,61 @@
+body {
+    background: rgb(190, 190, 192);
+}
+
+#header {
+    background-color: rgb(15, 119, 238);
+    color:rgb(53, 53, 56);
+    font-family: "Cambria", "Cochin"," Georgia", Times, "Times New Roman", sans-serif;
+    font-size: 55px;
+    text-align: center;
+}
+#header2 {
+    background-color: rgb(53, 53, 56);
+    color: white;
+    font-size: 45px;
+    font-family: "Cambria", "Cochin"," Georgia", Times, "Times New Roman", sans-serif;
+    text-align: center;
+}
+.p1 {
+
+    background-color: rgb(100, 98, 98);
+    color:white;
+    font-size: 30px ;
+    text-align: center;
+}
+.one
+ {
+    background-color: rgb(225, 205, 243);
+    font-size: 25px;
+    width: 300px;
+    border: 3px solid rgb(53, 51, 51);
+    text-align: center;
+    
+    
+}
+
+.two {
+
+    background-color: rgb(176, 236, 163);
+    font-size: 24.12px;
+    width:300px;
+    border: 3px solid rgb(53, 51, 51);
+}
+
+.three {
+
+    background-color: rgb(206, 80, 80);
+    font-size: 24px;
+    width: 300px;
+    border: 3px solid rgb(53, 51, 51);
+}
+
+.four {
+
+    background-color: rgb(112, 112, 253);
+    font-size: 24px;
+    width: 300px;
+    border: 3px solid rgb(53, 51, 51);
+}
+
+

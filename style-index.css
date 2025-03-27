@@ -1,38 +1,126 @@
-body {
-    background: rgb(190, 190, 192);
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
 }
 
-#header {
+* {
+    margin:0;
+    padding:0;
+    
+   
+}
+
+body {
+    background: whitesmoke;
+}
+
+
+
+
+
+
+.header {
     background-color: rgb(15, 119, 238);
     color:rgb(53, 53, 56);
     font-family: "Cambria", "Cochin"," Georgia", Times, "Times New Roman", sans-serif;
     font-size: 55px;
     text-align: center;
+    width: 800px;
+    margin:auto;
+    margin-top: 1em;
+    border-right: 10px solid black;
+    border-bottom: 4px dotted black;
 }
-#header2 {
+.header-2 {
     background-color: rgb(53, 53, 56);
     color: white;
     font-size: 45px;
     font-family: "Cambria", "Cochin"," Georgia", Times, "Times New Roman", sans-serif;
     text-align: center;
+    width:700px;
+    margin:auto;
+    margin-top: .5em;;
+    border: 10px solid rgba(15, 14, 14, 0);
+    
 }
 .p1 {
 
-    background-color: rgb(100, 98, 98);
+    background-color: rgb(100, 98, 99);
     color:white;
-    font-size: 30px ;
+    font-size: 25px ;
     text-align: center;
+    width:700px;
+    margin:auto;
+    margin-top: .5em;
+    border: 3px solid black;
 }
+
+.image-1 {
+
+    width: 300px;
+    margin-left: 785px;
+    margin-top: .6em;
+    border: 3px solid black;
+}
+
+.header-3 {
+
+    width:600px;
+    color:black;
+    font-size: 35px;
+    margin-left: 646px ;
+    margin-top: 1em;
+   
+    border-bottom: 3px dotted black;
+    
+}
+
+.pnat {
+
+    height:98px;
+    width: 87px;
+    margin-left: 1100px;
+    margin-top: -5em;
+
+}
+
+.pdom {
+    height:98px;
+    width: 87px;
+    margin-left: 1100px;
+    margin-top: -5em;
+}
+
+.pdame {
+    height:98px;
+    width: 87px;
+    margin-left: 1100px;
+    margin-top: -5em;
+
+}
+
+.paj {
+    height:98px;
+    width: 87px;
+    margin-left: 1100px;
+    margin-top: -5em;
+
+}
+
 .one
  {
-    background-color: rgb(225, 205, 243);
+    background-color:  rgb(212, 33, 188);
     font-size: 25px;
     width: 300px;
     border: 3px solid rgb(53, 51, 51);
     text-align: center;
+    margin-left: 785px;
+    margin-top: 1em;
+   
+    }
+
     
-    
-}
 
 .two {
 
@@ -40,7 +128,11 @@ body {
     font-size: 24.12px;
     width:300px;
     border: 3px solid rgb(53, 51, 51);
+    margin-left: 785px;
+    margin-top: 1em;
 }
+
+
 
 .three {
 
@@ -48,7 +140,11 @@ body {
     font-size: 24px;
     width: 300px;
     border: 3px solid rgb(53, 51, 51);
+    margin-left: 785px;
+    margin-top: 1em;
 }
+
+
 
 .four {
 
@@ -56,6 +152,17 @@ body {
     font-size: 24px;
     width: 300px;
     border: 3px solid rgb(53, 51, 51);
+    margin-left: 785px;
+    margin-top: 1em;
+}
+
+footer {
+    margin: 10em 0 0 3em;
+}
+
+.p-footer {
+    margin-left: 1600px;
+    font-size: 18px;
 }
 
 

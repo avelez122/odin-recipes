@@ -1,0 +1,126 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin:0;
+    padding:0;
+    
+   
+}
+ 
+body {
+    background: whitesmoke;
+}
+h1 {
+    height: 60px;
+    width: 500px;
+    font-family: "Cambria", "Cochin"," Georgia", Times, "Times New Roman", sans-serif;
+    font-size: 55px;
+    margin:3em 0 0 675px;
+    padding-left: 145px;
+    border-bottom: 2px solid black;
+
+}
+.h2-1 {
+    height: 40px;
+    width:267px;
+    font-size: 35px;
+    font-family: "Cambria", "Cochin"," Georgia", Times, "Times New Roman", sans-serif;
+    margin: 1em 0 0 795px;
+    border-bottom: 2px dotted black;
+}
+
+.h3-1 {
+    height: 22px;
+    width: 130px;
+    font-size: 20px;
+    font-family: "Cambria", "Cochin"," Georgia", Times, "Times New Roman", sans-serif;
+    margin: 1em 0 0 795px;
+
+}
+
+.nat {
+    height: 300px;
+    width: 267px;
+    border: 2px solid black;
+    margin: .25em 0 0 795px;
+}
+
+p {
+    height: 22px;
+    width: 700px;
+    font-weight: 450;
+    font-family: "Cambria", "Cochin"," Georgia", Times, "Times New Roman", sans-serif;
+    margin: .5em 0 0 670px;
+}
+
+.h3-2 {
+    height: 22px;
+    width: 130px;
+    font-size: 20px;
+    font-family: "Cambria", "Cochin"," Georgia", Times, "Times New Roman", sans-serif;
+    margin: 1em 0 0 795px;
+}
+
+.dom {
+    height: 300px;
+    width: 267px;
+    border: 2px solid black;
+    margin: .25em 0 0 795px;
+
+}
+
+.h3-3 {
+    height: 22px;
+    width: 130px;
+    font-size: 20px;
+    font-family: "Cambria", "Cochin"," Georgia", Times, "Times New Roman", sans-serif;
+    margin: 1em 0 0 795px;
+}
+
+.dame {
+    height: 300px;
+    width: 267px;
+    border: 2px solid black;
+    margin: .25em 0 0 795px;
+
+}
+
+.h3-4 {
+    height: 22px;
+    width: 130px;
+    font-size: 20px;
+    font-family: "Cambria", "Cochin"," Georgia", Times, "Times New Roman", sans-serif;
+    margin: 1em 0 0 795px;
+}
+
+.aj {
+    height: 300px;
+    width: 267px;
+    border: 2px solid black;
+    margin: .25em 0 0 795px;
+
+}
+
+footer {
+   
+    margin-top: 10em;
+}
+
+.p-footer {
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 1600px;
+}
+
+.home {
+
+    font-size: 25px;
+    background-color: rgb(146, 142, 142);
+    height:29px;
+    width: 75px;
+    margin-left: 880px;
+}
